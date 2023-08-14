@@ -1,0 +1,79 @@
+/* header{
+    background-image: ;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} */
+
+
+.banner-container{
+
+    background-image: url(Rda.JPG);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+
+
+.head{
+    background-color: red;
+    width: 40%;
+    color: blue;
+
+
+    
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.carousel {
+
+
+height: 50vh; 
+}
+/* Center the carousel content vertically */
+  .carousel-inner {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  /* Add custom styles for the slides */
+  .carousel-item img {
+    object-fit: cover;
+}
+
+
+    
+
+
+.banner-contains{
+
+
+    background-color:rgba(30, 107, 14, 0.808);
+    color: aliceblue;
+    width: 75%;
+    height: 6rem;
+    
+
+
+    
+
+}
+.bot{
+    transition: 1s;
+}
+
+.bot:hover{
+    transform: scale(1.2);
+}
+
