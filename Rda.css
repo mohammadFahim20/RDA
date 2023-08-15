@@ -77,3 +77,42 @@ height: 50vh;
     transform: scale(1.2);
 }
 
+/* card */
+
+.features{
+    background-color: #0B666A;
+ color:white;
+ height: 53vh;
+ border: 1px solid white;
+ /* margin: 1px; */
+ 
+
+}
+
+.feature{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px 0;
+    transition: 1s;
+    padding: 15px;
+    height: 30vh;
+
+}
+
+.feature:hover{
+    transform: scale(1.2);
+    box-shadow: 2px 6px 5px black;
+}
+
+.icon-style{
+    padding: 15px;
+    background-color: #071952;
+}
+
+.carousel-inner{
+    height: 80vh;
+}
+
+.carousel{
+    height: 90vh;
+}
