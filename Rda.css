@@ -6,6 +6,11 @@
     height: 100vh;
 } */
 
+/* reset code and common code started here */
+
+
+
+/* reset code end  */
 
 .banner-container{
 
@@ -76,6 +81,9 @@ height: 50vh;
 .bot:hover{
     transform: scale(1.2);
 }
+
+
+
 
 /* card */
 
